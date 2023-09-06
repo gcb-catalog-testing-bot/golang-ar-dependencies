@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"log"
 
-	greetings "github.com/gcb-catalog-testing-bot/golang-ar-private-module"
+	greetings "gcb-catalog-dev.git.corp.google.com/gcb-catalog-testing-bot/golang-ar-private-module"
 )
 
 func main() {
